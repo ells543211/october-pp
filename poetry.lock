@@ -1,0 +1,18 @@
+[[package]]
+name = "freegames"
+version = "2.3.2"
+description = "Free Games"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "6be8e71ffb882d83a1dd4689eded87b23f0e258be08a97ae7c4528347f0a052f"
+
+[metadata.files]
+freegames = [
+    {file = "freegames-2.3.2-py2.py3-none-any.whl", hash = "sha256:1ebe3681e858613ec6c6cb57b6825de99a8bd909856f6c00c76bf8c6eb1ecc10"},
+    {file = "freegames-2.3.2.tar.gz", hash = "sha256:351da8f57f9244a83afe1f3bdd3cb9199c5f46e70f655928f242a75c8c52f00e"},
+]
